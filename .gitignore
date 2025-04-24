@@ -1,0 +1,9 @@
+dist/
+cache/
+.build/
+node_modules/
+*.log
+*.tmp
+*.lock
+*.swp
+*.swo
